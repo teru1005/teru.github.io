@@ -370,7 +370,14 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
-  .tile.tile-super .tile-inner {
+  .tile.tile-4096 .tile-inner {
+    color: #f9f6f2;
+    background: #3c3a32;
+    font-size: 30px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-super .tile-inner {
+        font-size: 10px; } }
+  .tile.tile-umemura .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
     font-size: 30px; }
@@ -779,6 +786,12 @@ hr {
 }
 .tile.tile-4096 .tile-inner {
   background-image: url(img/129.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-8192 .tile-inner {
+  background-image: url(img/666.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
