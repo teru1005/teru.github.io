@@ -773,25 +773,25 @@ hr {
   background-size: cover;
 }
 .tile.tile-1024 .tile-inner {
-  background-image: url(img/151.png);
+  background-image: url(img/102.png);
   background-repeat: no-repeat; 
   background-position: center;
   background-size: cover;
 }
 .tile.tile-2048 .tile-inner {
-  background-image: url(img/150.png);
+  background-image: url(img/204.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .tile.tile-4096 .tile-inner {
-  background-image: url(img/129.png);
+  background-image: url(img/409.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .tile.tile-8192 .tile-inner {
-  background-image: url(img/666.png);
+  background-image: url(img/819.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
