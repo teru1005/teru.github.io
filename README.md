@@ -15,5 +15,5 @@ SDGS14番の海の豊かさを守ろうについて活動しているグルー�
  - Nikekat 環境提供
 
 ## License
-海を守ろう2048は[MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)の下、作成されています。
+海を守ろう2048は[MIT license.](https://github.com/teru1005/teru.github.io/blob/main/LICENSE.txt)の下、作成されています。
 
